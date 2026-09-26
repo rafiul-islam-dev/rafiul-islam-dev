@@ -36,21 +36,13 @@ Currently, I'm focused on Full Stack Web Development while exploring Web Securit
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
 
-<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
 
-<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
-<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
