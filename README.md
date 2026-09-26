@@ -15,7 +15,7 @@ I love building modern, responsive, and user-friendly web applications.
 
 Become a professional **Full Stack Web Developer** and build secure, scalable applications that create real-world impact.
 
-
+---
 🔨 Languages and Tools:
 
 <p align="left">
@@ -25,7 +25,7 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
-
+---
 ## ⚡ GitHub Stats
 
 <p align="center">
@@ -36,8 +36,7 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
   />
 </p>
 
-
-
+---
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -45,7 +44,7 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
+---
 
 ### 💡 "Keep learning. Keep building. Keep improving."
 
