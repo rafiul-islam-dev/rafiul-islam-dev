@@ -25,7 +25,7 @@ I love building modern, responsive, and user-friendly web applications.
 Become a professional **Full Stack Web Developer** and build secure, scalable applications that create real-world impact.
 
 ---
-### 🔨 Skills:
+### 🔨 Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
