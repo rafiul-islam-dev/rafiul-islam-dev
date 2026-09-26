@@ -10,7 +10,8 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rafiul Islam**, a passionate Web Developer from Bangladesh.  
+I'm **Rafiul Islam**, a **Full Stack Web Developer** from Bangladesh.
+
 I love building modern, responsive, and user-friendly web applications.
 
 - 🔭 Currently building projects with **React & Next.js**
