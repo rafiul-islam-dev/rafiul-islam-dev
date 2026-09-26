@@ -52,6 +52,9 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
   <a href="https://github.com/rafiul-islam-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.facebook.com/rafiul.islam.421857">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ### 💡 "Keep learning. Keep building. Keep improving."
