@@ -1,34 +1,19 @@
 # Hi, I'm Rafiul Islam 👋
 
-### Full Stack Web Developer | React & Next.js Enthusiast
+## 👨‍💻 About Me
 
-I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my development skills.
+I'm **Rafiul Islam**, a passionate Web Developer from Bangladesh.  
+I love building modern, responsive, and user-friendly web applications.
 
-Currently, I'm focused on Full Stack Web Development while exploring Web Security and Cybersecurity.
+- 🔭 Currently building projects with **React & Next.js**
+- 🌱 Learning **TypeScript, Backend & Full Stack Development**
+- 🔐 Exploring **Web Security & Ethical Hacking**
+- 🛠️ Interested in building practical, real-world applications
+- 📚 Always learning, experimenting, and improving
 
----
+### 🎯 Goal
 
-## 🚀 About Me
-
-* 💻 Passionate about Web Development
-* 🌱 Currently learning Full Stack Development
-* ⚛️ Working with React, Next.js, and TypeScript
-* 🎨 Building responsive interfaces with Tailwind CSS
-* 🔐 Exploring Web Security & Ethical Hacking
-* 🛠️ Enjoy building real-world projects
-* 📚 Always learning and improving
-
----
-
-## 🔭 What I'm Doing Now
-
-* Building projects with **React & Next.js**
-* Improving my **TypeScript** skills
-* Learning **Backend Development**
-* Working with **REST APIs**
-* Learning **Database Management**
-* Exploring **Web Security**
-* Building projects for my developer portfolio
+Become a professional **Full Stack Web Developer** and build secure, scalable applications that create real-world impact.
 
 ---
 
@@ -36,59 +21,22 @@ Currently, I'm focused on Full Stack Web Development while exploring Web Securit
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
   <img src="https://skillicons.dev/icons?i=mongodb" />
-
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
-
-
 ---
 
-## 🚀 Featured Projects
+## ⚡ GitHub Stats
 
-### 💻 Dev Stack
-
-A modern developer technology and tools showcase built with React and TypeScript.
-
-**Tech Stack:** React • TypeScript • Tailwind CSS
-
-🔗 [View Repository](https://github.com/rafiul-islam-dev)
-
----
-
-## 🎯 Future Goals
-
-* Become a professional Full Stack Web Developer
-* Build scalable and production-ready applications
-* Develop strong backend development skills
-* Build secure and reliable web applications
-* Contribute to open-source projects
-* Create useful products that solve real-world problems
-
----
-
-## 📚 Currently Learning
-
-```text
-React
-   ↓
-Next.js
-   ↓
-TypeScript
-   ↓
-Backend Development
-   ↓
-Databases
-   ↓
-Full Stack Development
-   ↓
-Web Security
-```
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-islam-dev&theme=dark&hide_border=false&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=FFFFFF&dates=8B949E"
+    width="900"
+    alt="Rafiul Islam GitHub Stats"
+  />
+</p>
 
 ---
 
