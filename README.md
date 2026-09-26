@@ -32,33 +32,23 @@ Currently, I'm focused on Full Stack Web Development while exploring Web Securit
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
+🔨 Languages and Tools:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Backend
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
-### Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-### Currently Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
