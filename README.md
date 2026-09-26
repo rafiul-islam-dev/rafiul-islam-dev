@@ -1,18 +1,125 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Rafiul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# Hi, I'm Rafiul Islam 👋
 
-- 📫 How to reach me **rafiul07islam@gmail.com**
+### Full Stack Web Developer | React & Next.js Enthusiast
 
-<h3 align="left">Connect with me:</h3>
+I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my development skills.
+
+Currently, I'm focused on Full Stack Web Development while exploring Web Security and Cybersecurity.
+
+---
+
+## 🚀 About Me
+
+* 💻 Passionate about Web Development
+* 🌱 Currently learning Full Stack Development
+* ⚛️ Working with React, Next.js, and TypeScript
+* 🎨 Building responsive interfaces with Tailwind CSS
+* 🔐 Exploring Web Security & Ethical Hacking
+* 🛠️ Enjoy building real-world projects
+* 📚 Always learning and improving
+
+---
+
+## 🔭 What I'm Doing Now
+
+* Building projects with **React & Next.js**
+* Improving my **TypeScript** skills
+* Learning **Backend Development**
+* Working with **REST APIs**
+* Learning **Database Management**
+* Exploring **Web Security**
+* Building projects for my developer portfolio
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiul-islam-dev&show_icons=true&locale=en&layout=compact" alt="rafiul-islam-dev" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiul-islam-dev&show_icons=true&locale=en" alt="rafiul-islam-dev" /></p>
+### Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-islam-dev&" alt="rafiul-islam-dev" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+
+---
+
+## 🚀 Featured Projects
+
+### 💻 Dev Stack
+
+A modern developer technology and tools showcase built with React and TypeScript.
+
+**Tech Stack:** React • TypeScript • Tailwind CSS
+
+🔗 [View Repository](https://github.com/rafiul-islam-dev)
+
+---
+
+## 🎯 Future Goals
+
+* Become a professional Full Stack Web Developer
+* Build scalable and production-ready applications
+* Develop strong backend development skills
+* Build secure and reliable web applications
+* Contribute to open-source projects
+* Create useful products that solve real-world problems
+
+---
+
+## 📚 Currently Learning
+
+```text
+React
+   ↓
+Next.js
+   ↓
+TypeScript
+   ↓
+Backend Development
+   ↓
+Databases
+   ↓
+Full Stack Development
+   ↓
+Web Security
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/rafiul-islam-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 💡 "Keep learning. Keep building. Keep improving."
+
+Thanks for visiting my profile! ⭐
