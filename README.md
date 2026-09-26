@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/profile-bannar.png"
+    alt="Rafiul Islam - Full Stack Web Developer"
+    width="100%"
+  />
+</p>
+
 # Hi, I'm Rafiul Islam 👋
 
 ## 👨‍💻 About Me
