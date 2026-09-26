@@ -25,6 +25,7 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
+
 ---
 ## ⚡ GitHub Stats
 
@@ -44,7 +45,6 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
----
 
 ### 💡 "Keep learning. Keep building. Keep improving."
 
