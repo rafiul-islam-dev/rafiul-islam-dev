@@ -35,17 +35,6 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
 </p>
 
 ---
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-islam-dev&theme=dark&hide_border=false&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=FFFFFF&dates=8B949E"
-    width="900"
-    alt="Rafiul Islam GitHub Stats"
-  />
-</p>
-
----
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -55,6 +44,17 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
   <a href="https://www.facebook.com/rafiul.islam.421857">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+</p>
+
+---
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-islam-dev&theme=dark&hide_border=false&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=FFFFFF&dates=8B949E"
+    width="900"
+    alt="Rafiul Islam GitHub Stats"
+  />
 </p>
 
 ### 💡 "Keep learning. Keep building. Keep improving."
