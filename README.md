@@ -7,7 +7,7 @@ I love building modern, responsive, and user-friendly web applications.
 
 - 🔭 Currently building projects with **React & Next.js**
 - 🌱 Learning **TypeScript, Backend & Full Stack Development**
-- 🔐 Exploring **Web Security & Ethical Hacking**
+- 🔐 Exploring **Web Security**
 - 🛠️ Interested in building practical, real-world applications
 - 📚 Always learning, experimenting, and improving
 
@@ -15,7 +15,6 @@ I love building modern, responsive, and user-friendly web applications.
 
 Become a professional **Full Stack Web Developer** and build secure, scalable applications that create real-world impact.
 
----
 
 🔨 Languages and Tools:
 
@@ -26,7 +25,6 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
----
 
 ## ⚡ GitHub Stats
 
@@ -38,7 +36,7 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
   />
 </p>
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -48,7 +46,6 @@ Become a professional **Full Stack Web Developer** and build secure, scalable ap
   </a>
 </p>
 
----
 
 ### 💡 "Keep learning. Keep building. Keep improving."
 
